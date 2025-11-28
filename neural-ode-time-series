@@ -1,0 +1,14 @@
+neural-ode-time-series/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── data/
+│ └── generate_data.py
+├── src/
+│ ├── __init__.py
+│ ├── models.py
+│ ├── train.py
+│ ├── evaluate.py
+│ └── benchmarks.py
+└── notebooks/
+└── analysis.md
